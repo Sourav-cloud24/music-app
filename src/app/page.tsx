@@ -1,5 +1,6 @@
 import FeatureSection from "@/components/FeatureSection";
 import HeroSection from "@/components/HeroSection";
+import TestimonialCards from "@/components/TestimonialCards";
 import { Spotlight } from "@/components/ui/spotlight-new";
 import WhyChooseUs from "@/components/WhyChooseUs";
 
@@ -9,6 +10,7 @@ export default function Home() {
       <HeroSection/>
       <FeatureSection/>
       <WhyChooseUs/>
+      <TestimonialCards/>
     </div>
   );
 }

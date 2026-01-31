@@ -1,0 +1,114 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamentals",
+            "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+            "price": 99.99,
+            "instructor": "John Doe",
+            "level": "Beginner",
+            "isFeatured": true,
+            "image": "/courses/guitar.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Piano for Beginners",
+            "slug": "piano-for-beginners",
+            "description": "Start your musical journey with foundational piano skills taught by expert instructors.",
+            "price": 89.99,
+            "instructor": "Jane Smith",
+            "level": "Beginner",
+            "isFeatured": false,
+            "image": "/courses/piano.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Vocal Training Essentials",
+            "slug": "vocal-training-essentials",
+            "description": "Improve your vocal range, pitch, and breathing techniques with professional guidance.",
+            "price": 79.99,
+            "instructor": "Rahul Verma",
+            "level": "Intermediate",
+            "isFeatured": true,
+            "image": "/courses/vocals.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Drums Masterclass",
+            "slug": "drums-masterclass",
+            "description": "Master rhythm, coordination, and advanced drumming patterns.",
+            "price": 119.99,
+            "instructor": "Amit Kapoor",
+            "level": "Advanced",
+            "isFeatured": false,
+            "image": "/courses/drums.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Bass Guitar Basics",
+            "slug": "bass-guitar-basics",
+            "description": "Understand groove, timing, and bass techniques for modern music.",
+            "price": 84.99,
+            "instructor": "Chris Miller",
+            "level": "Beginner",
+            "isFeatured": false,
+            "image": "/courses/bass.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Music Theory Simplified",
+            "slug": "music-theory-simplified",
+            "description": "Learn scales, chords, and harmony without complicated jargon.",
+            "price": 69.99,
+            "instructor": "Neha Sharma",
+            "level": "Beginner",
+            "isFeatured": true,
+            "image": "/courses/theory.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Electronic Music Production",
+            "slug": "electronic-music-production",
+            "description": "Create electronic tracks using DAWs, synths, and effects.",
+            "price": 149.99,
+            "instructor": "Arjun Mehta",
+            "level": "Advanced",
+            "isFeatured": true,
+            "image": "/courses/edm.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Violin for Beginners",
+            "slug": "violin-for-beginners",
+            "description": "Learn posture, bowing, and basic melodies on the violin.",
+            "price": 94.99,
+            "instructor": "Sophia Lee",
+            "level": "Beginner",
+            "isFeatured": false,
+            "image": "/courses/violin.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Flute Basics",
+            "slug": "flute-basics",
+            "description": "Develop tone, breath control, and finger techniques on the flute.",
+            "price": 74.99,
+            "instructor": "Anjali Roy",
+            "level": "Beginner",
+            "isFeatured": false,
+            "image": "/courses/flute.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Songwriting Workshop",
+            "slug": "songwriting-workshop",
+            "description": "Write meaningful lyrics and compose melodies that connect emotionally.",
+            "price": 109.99,
+            "instructor": "David Wilson",
+            "level": "Intermediate",
+            "isFeatured": true,
+            "image": "/courses/songwriting.jpg"
+        }
+    ]
+}

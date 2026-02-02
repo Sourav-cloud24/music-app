@@ -87,7 +87,7 @@ const FeatureSection = () => {
         <div className="mt-20 text-center">
           <Link
             className="px-4 py-3.5 text-neutral-800 hover:bg-gray-100 transition bg-white"
-            href="/courses"
+            href="/"
           >
             View All Courses
           </Link>

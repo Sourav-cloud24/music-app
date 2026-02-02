@@ -1,0 +1,46 @@
+{
+  "webinars": [
+    {
+      "title": "Guitar Basics Live Workshop",
+      "description": "Join our live session to learn essential guitar chords, strumming patterns, and beginner techniques.",
+      "date": "2026-02-10",
+      "time": "6:00 PM IST",
+      "speaker": "John Doe"
+    },
+    {
+      "title": "Piano Mastery for Beginners",
+      "description": "A hands-on webinar covering posture, scales, and simple melodies for piano learners.",
+      "date": "2026-02-15",
+      "time": "7:00 PM IST",
+      "speaker": "Jane Smith"
+    },
+    {
+      "title": "Vocal Training & Breath Control",
+      "description": "Improve your vocal range and control with professional breathing and warm-up techniques.",
+      "date": "2026-02-20",
+      "time": "5:30 PM IST",
+      "speaker": "Rahul Verma"
+    },
+    {
+      "title": "Introduction to Music Production",
+      "description": "Learn the basics of DAWs, sound design, and beat creation in this beginner-friendly webinar.",
+      "date": "2026-02-25",
+      "time": "8:00 PM IST",
+      "speaker": "Arjun Mehta"
+    },
+    {
+      "title": "Music Theory for Songwriters",
+      "description": "Understand chords, scales, and progressions to write better songs with confidence.",
+      "date": "2026-03-01",
+      "time": "6:30 PM IST",
+      "speaker": "Neha Sharma"
+    },
+    {
+      "title": "Drumming Techniques & Rhythm Control",
+      "description": "Enhance your timing, coordination, and groove with practical drumming exercises.",
+      "date": "2026-03-05",
+      "time": "7:00 PM IST",
+      "speaker": "Amit Kapoor"
+    }
+  ]
+}

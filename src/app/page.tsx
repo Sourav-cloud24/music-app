@@ -4,6 +4,7 @@ import TestimonialCards from "@/components/TestimonialCards";
 import { Spotlight } from "@/components/ui/spotlight-new";
 import WhyChooseUs from "@/components/WhyChooseUs";
 import UpcomingWebinars from "@/components/UpcomingWebinars";
+import Instructors from "@/components/Instructors";
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       <WhyChooseUs/>
       <TestimonialCards/>
       <UpcomingWebinars/>
+      <Instructors/>
     </div>
   );
 }

@@ -1,10 +1,10 @@
 import FeatureSection from "@/components/FeatureSection";
 import HeroSection from "@/components/HeroSection";
 import TestimonialCards from "@/components/TestimonialCards";
-import { Spotlight } from "@/components/ui/spotlight-new";
 import WhyChooseUs from "@/components/WhyChooseUs";
 import UpcomingWebinars from "@/components/UpcomingWebinars";
 import Instructors from "@/components/Instructors";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -15,6 +15,7 @@ export default function Home() {
       <TestimonialCards/>
       <UpcomingWebinars/>
       <Instructors/>
+      <Footer/>
     </div>
   );
 }

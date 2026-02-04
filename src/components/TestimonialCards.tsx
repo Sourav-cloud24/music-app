@@ -15,14 +15,16 @@ const TestimonialCards = () => {
           "dark:[background-image:radial-gradient(#404040_0.5px,transparent_0.5px)]",
         )}
       />
-      <h1 className="text-white text-3xl text-center font-bold mb-8">Hear Our Harmony: Voice of Success</h1>
+      <h1 className="text-white text-3xl text-center font-bold mb-8">
+        Hear Our Harmony: Voice of Success
+      </h1>
       <div className="flex justify-center w-full overflow-hidden px-4">
         <div className="w-full max-w-6xl">
-            <InfiniteMovingCards
-                items={testimonials}
-                direction="right"
-                speed="slow"
-            />
+          <InfiniteMovingCards
+            items={testimonials}
+            direction="right"
+            speed="slow"
+          />
         </div>
       </div>
     </div>

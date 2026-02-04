@@ -9,7 +9,7 @@
             "instructor": "John Doe",
             "level": "Beginner",
             "isFeatured": true,
-            "image": "/courses/guitar.jpg"
+            "image": "/courses-img/guitar.jpg"
         },
         {
             "id": 2,
@@ -20,7 +20,7 @@
             "instructor": "Jane Smith",
             "level": "Beginner",
             "isFeatured": false,
-            "image": "/courses/piano.jpg"
+            "image": "/courses-img/piano.jpg"
         },
         {
             "id": 3,
@@ -31,7 +31,7 @@
             "instructor": "Rahul Verma",
             "level": "Intermediate",
             "isFeatured": true,
-            "image": "/courses/vocals.jpg"
+            "image": "/courses-img/vocalist.jpg"
         },
         {
             "id": 4,
@@ -42,7 +42,7 @@
             "instructor": "Amit Kapoor",
             "level": "Advanced",
             "isFeatured": false,
-            "image": "/courses/drums.jpg"
+            "image": "/courses-img/drumming.jpg"
         },
         {
             "id": 5,
@@ -53,7 +53,7 @@
             "instructor": "Chris Miller",
             "level": "Beginner",
             "isFeatured": false,
-            "image": "/courses/bass.jpg"
+            "image": "/courses-img/guitar.jpg"
         },
         {
             "id": 6,
@@ -64,7 +64,7 @@
             "instructor": "Neha Sharma",
             "level": "Beginner",
             "isFeatured": true,
-            "image": "/courses/theory.jpg"
+            "image": "/courses-img/song-writing.jpg"
         },
         {
             "id": 7,
@@ -75,7 +75,7 @@
             "instructor": "Arjun Mehta",
             "level": "Advanced",
             "isFeatured": true,
-            "image": "/courses/edm.jpg"
+            "image": "/courses-img/edm.jpg"
         },
         {
             "id": 8,
@@ -86,7 +86,7 @@
             "instructor": "Sophia Lee",
             "level": "Beginner",
             "isFeatured": false,
-            "image": "/courses/violin.jpg"
+            "image": "/courses-img/guitar.jpg"
         },
         {
             "id": 9,
@@ -97,7 +97,7 @@
             "instructor": "Anjali Roy",
             "level": "Beginner",
             "isFeatured": false,
-            "image": "/courses/flute.jpg"
+            "image": "/courses-img/jazz.jpg"
         },
         {
             "id": 10,
@@ -108,7 +108,7 @@
             "instructor": "David Wilson",
             "level": "Intermediate",
             "isFeatured": true,
-            "image": "/courses/songwriting.jpg"
+            "image": "/courses-img/classical-music.jpg"
         }
     ]
 }
